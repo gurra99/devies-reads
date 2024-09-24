@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Final empire",
+    "genre": "string",
+    "coverUrl": "string",
+    "description": "together the composition of the a more positive outlook on life the opposition party criticized the governments decision we need to cooperate if we want to succeed as a team despite the setback, she remained hopeful for the future he made a deposit into his savings account every month the corporation announced a new ceo for the company they ",
+    "averageRating": 0,
+    "haveRead": 0,
+    "currentlyReading": 0,
+    "wantToRead": 0,
+    "userRating": 0
+  },
+  {
+    "id": "2",
+    "name": "Assassins",
+    "genre": "string",
+    "coverUrl": "string",
+    "description": "string",
+    "averageRating": 0,
+    "haveRead": 0,
+    "currentlyReading": 0,
+    "wantToRead": 0,
+    "userRating": 0
+  },
+  {
+    "id": "3",
+    "name": "Game of thrones",
+    "genre": "string",
+    "coverUrl": "string",
+    "description": "string",
+    "averageRating": 0,
+    "haveRead": 0,
+    "currentlyReading": 0,
+    "wantToRead": 0,
+    "userRating": 0
+  },
+  {
+    "id": "4",
+    "name": "Final empire",
+    "genre": "string",
+    "coverUrl": "string",
+    "description": "string",
+    "averageRating": 0,
+    "haveRead": 0,
+    "currentlyReading": 0,
+    "wantToRead": 0,
+    "userRating": 0
+  },
+  {
+    "id": "5",
+    "name": "Red Queen",
+    "genre": "string",
+    "coverUrl": "string",
+    "description": "string",
+    "averageRating": 0,
+    "haveRead": 0,
+    "currentlyReading": 0,
+    "wantToRead": 0,
+    "userRating": 0
+  },
+  {
+    "id": "6",
+    "name": "Millenium",
+    "genre": "string",
+    "coverUrl": "string",
+    "description": "string",
+    "averageRating": 0,
+    "haveRead": 0,
+    "currentlyReading": 0,
+    "wantToRead": 0,
+    "userRating": 0
+  }
+]
